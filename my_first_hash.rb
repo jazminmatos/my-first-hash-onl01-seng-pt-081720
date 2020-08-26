@@ -19,6 +19,7 @@ end
 
 
 
+
 def adding
   shipping_manifest = {
                   "whale bone corsets" => 5, 
@@ -36,3 +37,9 @@ def adding
   # return the shipping_manifest hash below
 
 end
+
+
+
+
+
+
